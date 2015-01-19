@@ -1,0 +1,16 @@
+{
+  "name": "gobble-ractive-window",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "A plugin for gobble to turn ractive-window files into loadable scripts",
+  "homepage": "https://github.com/evs-chris/gobble-ractive-window",
+  "author": { "name": "Chris Reeves" },
+  "main": "index.js",
+  "repository": { "type": "git", "url": "https://github.com/evs-chris/gobble-ractive-window.git" },
+  "files": [ "package.json", "index.js", "LICENSE.md" ],
+  "keywords": [ "gobble-plugin", "gobble", "ractive-window" ],
+  "dependencies": {
+    "esperanto": "^0",
+    "6to5": "^2"
+  }
+}
